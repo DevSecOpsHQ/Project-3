@@ -33,8 +33,11 @@ After some time, I discovered my mistake—it took me 4 hours, quite unusual! I 
 Boom, here we go
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/192f536b-42a9-478b-af38-0a7abe650843)
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/61c73eec-5b8b-46bf-83c5-075cccd11d31)
-Created an IAM role and click on create the on-demand-backup
+Created an IAM role and clicked on create the on-demand-backup
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/b6b127bf-731e-4945-885f-c3a9cc066b30)
 In progress
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/ddd361df-eb97-4fc6-8ef2-d15baca0f1c8)
+Completed
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/a67b76af-780c-4f9d-bb78-b0bc713aeda1)
+I have the option to select the Backup job ID for the chosen resource that was backed up to view the specifics of that particular job.
 
