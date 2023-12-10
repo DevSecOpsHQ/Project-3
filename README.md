@@ -16,3 +16,7 @@ I opted for the easy create option because I don't want to spend time configurin
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/dc49f759-593f-49ba-a639-eef88e4038cb)
 Dev/Test
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/7bdd9fe4-3fcf-4226-9bff-1fa366ac4d50)
+Creating...
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/514512c8-1a5e-4c96-beee-8a34becef41d)
+Now available;
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/7250c81d-6443-41f4-9b08-ad25b356ad86)
