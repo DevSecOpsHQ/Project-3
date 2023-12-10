@@ -18,5 +18,9 @@ Dev/Test
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/7bdd9fe4-3fcf-4226-9bff-1fa366ac4d50)
 Creating...
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/514512c8-1a5e-4c96-beee-8a34becef41d)
-Now available;
+Our DB is now available;
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/7250c81d-6443-41f4-9b08-ad25b356ad86)
+Now, let's create our backup plan
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/2144f868-a713-4b2e-b0e6-7947d2a4cab9)
+Click settings > configure resources || In the Configure Resources section, utilize the toggle switches to activate or deactivate the services associated with AWS Backup. Select Confirm once your services are configured.
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/f11eb8d8-ac30-4213-bfa1-dc68d8514f96)
