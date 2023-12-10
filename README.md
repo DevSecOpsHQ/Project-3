@@ -20,7 +20,7 @@ Creating...
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/514512c8-1a5e-4c96-beee-8a34becef41d)
 Our DB is now available;
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/618c67a7-5192-41e7-8b74-03341f6295f6)
-Now, let's create our backup plan
+
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/2144f868-a713-4b2e-b0e6-7947d2a4cab9)
 Click settings > configure resources || In the Configure Resources section, utilize the toggle switches to activate or deactivate the services associated with AWS Backup. Select Confirm once your services are configured.
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/f11eb8d8-ac30-4213-bfa1-dc68d8514f96)
@@ -40,4 +40,7 @@ In progress
 Completed
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/a67b76af-780c-4f9d-bb78-b0bc713aeda1)
 I have the option to select the Backup job ID for the chosen resource that was backed up to view the specifics of that particular job.
+
+Now, let's create our backup plan;
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/a46e50d2-ac68-4f05-b82a-41f3e369db8c)
 
