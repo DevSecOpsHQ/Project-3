@@ -43,4 +43,9 @@ I have the option to select the Backup job ID for the chosen resource that was b
 
 Now, let's create our backup plan;
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/a46e50d2-ac68-4f05-b82a-41f3e369db8c)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/fbf0a2d7-612a-4bd8-9971-1fb046c6b710)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/1bb07a4f-5194-4462-ba43-29414fa89bc7)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/cc84d9e2-64a5-479c-8a67-43e9fca6fdd4)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/7bf39a24-76ee-4478-8f6d-7eaa4d7d4050)
+
 
