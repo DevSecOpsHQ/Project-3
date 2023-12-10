@@ -47,5 +47,7 @@ Now, let's create our backup plan;
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/1bb07a4f-5194-4462-ba43-29414fa89bc7)
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/cc84d9e2-64a5-479c-8a67-43e9fca6fdd4)
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/7bf39a24-76ee-4478-8f6d-7eaa4d7d4050)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/b32c6bf2-ddb9-434a-a24a-e8ad5c3a6bd0)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/b6633c4e-3e6e-4a91-a0e6-4a808c450f51)
 
 
