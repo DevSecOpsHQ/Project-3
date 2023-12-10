@@ -26,3 +26,5 @@ Click settings > configure resources || In the Configure Resources section, util
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/f11eb8d8-ac30-4213-bfa1-dc68d8514f96)
 Proceed to create on-demand backup;
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/ede64b7e-3eae-4ab2-90dc-76b84dfac7c4)
+After choosing RDS and making sure I'm in N. Virginia region, I don't know why I'm not seeing my database, so I'll go through the DB again to check if I need to grant it one permission 
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/f33f9689-d0a3-4f46-9791-739b97bdf84a)
