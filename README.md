@@ -54,5 +54,14 @@ Let's navigate to the backup vault(default) that was selected in the backup plan
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/4f0d5295-a6ef-4387-b2bb-8bc0d3345c6f)
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/077b1575-3e69-49c3-af65-247c6b0a7079)
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/6a44e126-64c2-41da-8560-eba9bf149406)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/35278861-7a91-43d9-a992-3015fe795c29)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/b967c74f-c479-41d7-9f27-bce08fbcdd49)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/5cab4083-12b7-4d17-adac-d2baa003eaa9)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/d45f595e-da9c-4dfa-9605-5055bd229a42)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/3106c4e9-ab9a-4e4d-bf83-41c97bd5a07b)
+Let's check our RDS service;
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/577d003c-1386-45bf-8f18-72a482a9159e)
+We can use the endpoint to connect to the database.
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/f6dd5a89-2c25-4255-87a9-48e4aa711e46)
 
-
+### That's it for now. Remember to delete all the resources once you're done.
