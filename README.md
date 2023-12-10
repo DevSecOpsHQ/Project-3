@@ -64,4 +64,4 @@ Let's check our RDS service;
 We can use the endpoint to connect to the database.
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/f6dd5a89-2c25-4255-87a9-48e4aa711e46)
 
-### That's it for now. Remember to delete all the resources once you're done.
+### That's all for now. Remember to delete all the resources once you're done.
