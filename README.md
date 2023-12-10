@@ -14,3 +14,5 @@ Creating the DB instance;
 
 I opted for the easy create option because I don't want to spend time configuring it manually, especially since this is only for testing purposes.
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/dc49f759-593f-49ba-a639-eef88e4038cb)
+Dev/Test
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/7bdd9fe4-3fcf-4226-9bff-1fa366ac4d50)
