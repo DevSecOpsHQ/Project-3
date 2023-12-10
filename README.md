@@ -49,5 +49,10 @@ Now, let's create our backup plan;
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/7bf39a24-76ee-4478-8f6d-7eaa4d7d4050)
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/b32c6bf2-ddb9-434a-a24a-e8ad5c3a6bd0)
 ![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/b6633c4e-3e6e-4a91-a0e6-4a808c450f51)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/22c375da-4d9f-4846-8609-75f8d38919df)
+Let's navigate to the backup vault(default) that was selected in the backup plan and select the latest completed backup.
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/4f0d5295-a6ef-4387-b2bb-8bc0d3345c6f)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/077b1575-3e69-49c3-af65-247c6b0a7079)
+![image](https://github.com/DevSecOpsHQ/Project-3/assets/69714197/6a44e126-64c2-41da-8560-eba9bf149406)
 
 
